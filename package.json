@@ -1,8 +1,8 @@
 {
-  "name": "hubot-qq",
+  "name": "libqqbot",
   "version": "1.4.0",
 
-  "author": "xhan",
+  "author": "alee",
 
   "keywords": [
     "qqbot",
@@ -27,7 +27,8 @@
   "dependencies": {
     "request": "*",
     "log": ">= 1.4.0",
-    "js-yaml" : ">= 3.0.0"
+    "js-yaml" : ">= 3.0.0",
+    "coffee-script": "*"
   },
 
   "engines": {
